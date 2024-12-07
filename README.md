@@ -1,12 +1,16 @@
 # entrega-puc-sp2-mvpfront
 
 Repositório para entrega do MVP do Sprint 2, Desenvolvimento Front-end Avançado da Pós-Graduação de Desenvolvimento Full-Stack
+
 ---
+
 # Sistema de Cadastro de Usuários 
 
 Este projeto é um sistema desenvolvido em **React** como parte de uma entrega de trabalho de pós-graduação na PUC-RJ.
 O sistema tem como objetivo gerenciar o cadastro e consulta de usuários, permitindo um fluxo simplificado para registro e exibição de informações de usuários.
+
 ---
+
 ## ⚙️ Funcionalidades Principais
 
 - Cadastro de novos usuários através de um formulário dinâmico.
@@ -78,6 +82,15 @@ Pasta src/
 
     * `data/users.json`: Dados simulados para uso no desenvolvimento.
 --- 
+
+# 🎨Protótipo de Alta Fidelidade (FIGMA)
+
+No link abaixo pode-se navegar no protótipo FIGMA do projeto:
+
+[Link para o FIGMA](https://www.figma.com/design/0GyOFcFbMaxCBDCaJwXzTu/Sistena-de-Usu%C3%A1rios---Alta-Fidelidade?node-id=0-1&t=TfQtjzha3Qq30Gnc-1)
+
+---
+
 # 📞 Contato
 
 Para dúvidas ou feedback, entre em contato:
