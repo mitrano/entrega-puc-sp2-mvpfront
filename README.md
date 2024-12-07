@@ -83,11 +83,49 @@ Pasta src/
     * `data/users.json`: Dados simulados para uso no desenvolvimento.
 --- 
 
-# 🎨Protótipo de Alta Fidelidade (FIGMA)
+# 🎨 Protótipo de Alta Fidelidade (FIGMA)
 
 No link abaixo pode-se navegar no protótipo FIGMA do projeto:
 
 [Link para o FIGMA](https://www.figma.com/design/0GyOFcFbMaxCBDCaJwXzTu/Sistena-de-Usu%C3%A1rios---Alta-Fidelidade?node-id=0-1&t=TfQtjzha3Qq30Gnc-1)
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+1. **React**
+   - Biblioteca JavaScript para construção de interfaces de usuário baseadas em componentes.
+   - Utilizada para criar uma aplicação interativa e modular.
+
+2. **React Router DOM**
+   - Gerenciamento de rotas para permitir navegação entre diferentes páginas do sistema.
+
+3. **Material-UI (MUI)**
+   - Biblioteca de componentes prontos para React com design moderno.
+   - Inclui:
+     - `@mui/material`: Componentes principais como botões, tabelas, etc.
+     - `@mui/icons-material`: Ícones prontos para uso.
+
+4. **Emotion (Styled Components)**
+   - `@emotion/react` e `@emotion/styled`: Gerenciamento de estilos CSS dinâmicos e componentes estilizados.
+
+5. **JavaScript (ES6+)**
+   - Linguagem de programação principal utilizada para lógica e manipulação da interface.
+
+6. **HTML5 e CSS3**
+   - HTML usado para a estrutura básica do projeto.
+   - CSS3 para estilização global e ajustes visuais.
+
+7. **Node.js** e **npm**
+   - Node.js como runtime para executar ferramentas de desenvolvimento.
+   - npm utilizado para gerenciar dependências do projeto.
+
+8. **ESLint**
+   - Ferramenta de análise estática para garantir qualidade do código e padronização.
+
+9. **Mock de Dados (JSON)**
+   - Arquivo `users.json` para simulação de dados no ambiente de desenvolvimento.
+
 
 ---
 
@@ -96,5 +134,5 @@ No link abaixo pode-se navegar no protótipo FIGMA do projeto:
 Para dúvidas ou feedback, entre em contato:
 
 Nome: Ricardo Mitrano<br> 
-E-mail: mitrano@gmail.com<br> 
+E-mail: mitrano@xxxx.com<br> 
 LinkedIn: [linkedin.com/in/ricardomitrano](https://www.linkedin.com/in/mitrano-scrum-master-product-owner/) 
