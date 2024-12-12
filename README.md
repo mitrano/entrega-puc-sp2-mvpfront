@@ -95,6 +95,7 @@ No link abaixo pode-se navegar no protótipo FIGMA do projeto:
 
 Existe na raiz da árvore diretórios do Github o arquivo do FIGMA ("Sistema de Usuários - Alta Fidelidade.fig") caso os avaliadores precisem verificar algo no projeto FIGMA inteiro.
 
+![image](https://github.com/user-attachments/assets/345a9778-d293-4c19-8f6f-11961fb19185)
 
 
 ---
